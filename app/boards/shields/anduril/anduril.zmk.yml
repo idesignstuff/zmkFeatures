@@ -1,0 +1,9 @@
+file_format: "1"
+id: anduril
+name: 
+type: shield
+url: https://github.com/idesignstuff/anduril
+requires: [nice_nano]
+features:
+  - keys
+  - studio
